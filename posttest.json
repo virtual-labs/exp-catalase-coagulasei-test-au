@@ -1,0 +1,46 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The coagulase test is used to differentiate ________ from coagulase-negative staphylococci",
+      "answers": {
+        "a": "Methicillin-resistant Staphylococcus aureus",
+        "b": "Pathogenic bacteria",
+        "c": "Clostridium difficile",
+        "d": "Staphylococcus aureus"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. Catalase is a common ________ found in nearly all living organisms which are exposed to oxygen",
+      "answers": {
+        "a": "Carbohydrate",
+        "b": "Enzyme",
+        "c": "Enzyme inhibitor",
+        "d": "Cofactor"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. The catalase test is used to differentiate members of which genus",
+      "answers": {
+        "a": "Micrococcus",
+        "b": "Mycobacterium",
+        "c": "Streptococcus",
+        "d": "All of the above"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
