@@ -15,6 +15,7 @@
  
 #### Reagent:
 • 3% hydrogen peroxide
+
 (Storage: -Upon receipt, store at 2-80C away from direct light. Reagents should not be used if there are signs of deterioration or if the expiration date has passed.)
 
 &nbsp;
