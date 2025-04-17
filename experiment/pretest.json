@@ -1,39 +1,46 @@
+
 {
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Coagulase is an enzyme produced by ________ that converts fibrinogen to fibrin",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Clostridium difficile",
+        "b": "Pathogenic bacteria",
+        "c": "Methicillin-resistant Staphylococcus aureus",
+        "d": "Staphylococcus aureus"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. Catalase enzyme contains four porphyrin ________ (iron) groups that allow the enzyme to react with the hydrogen peroxide",
+      "answers": {
+        "a": "Metalloprotein",
+        "b": "Heme",
+        "c": "Nicotinamide Adenine dinucleotide",
+        "d": "Adenosine triphosphate"
       },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
+
+    
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. Catalase is frequently used by cells to rapidly catalyze the decomposition of hydrogen peroxide into less reactive gaseous ________ and water molecules",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Oxygen",
+        "b": "Helium",
+        "c": "Carbon",
+        "d": "Nitrogen"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
-}
+}	 
