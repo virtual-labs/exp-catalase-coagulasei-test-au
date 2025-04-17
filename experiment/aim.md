@@ -13,3 +13,4 @@
 2. To explain how coagulase confer a survival advantage to bacteria that produce this enzyme.
 3. To describe how pathogenic species of Staphylococci can be differentiated from nonpathogenic species.
 4. To perform coagulase test.
+
